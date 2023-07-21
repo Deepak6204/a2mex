@@ -206,12 +206,18 @@ ul a{
         margin: 20px;
     }
 
-    .button{
-        padding: 10px 30px;
+    .buttons{
+        width: fit-content;
     }
 
+    .button{
+        padding: 10px 30px;
+        font-size: 20px;
+    }
+
+
     .buttons p{
-        font-size: 25px;
+        font-size: 14px;
     }
 
     .aboutUs img{
@@ -236,6 +242,10 @@ ul a{
 
     .left p{
         font-size: 13px;
+    }
+
+    i{
+        font-size: 20px;
     }
 }
 
