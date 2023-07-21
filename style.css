@@ -223,7 +223,6 @@ ul a{
         flex-direction: column;
         width: 70%;
         height: 100vh;
-        margin: auto;
     }
 
     .left{
@@ -232,7 +231,7 @@ ul a{
     }
 
     .left h1{
-        font-size: 35px;
+        font-size: 20px;
     }
 
     .left p{
