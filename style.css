@@ -223,6 +223,7 @@ ul a{
         flex-direction: column;
         width: 70%;
         height: 100vh;
+        margin: auto;
     }
 
     .left{
