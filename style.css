@@ -52,7 +52,7 @@ body{
     display: flex;
     flex-direction: column;
     position: relative;
-    left: 10%;
+    left: 5%;
 }
 
 .buttons p{
@@ -195,7 +195,7 @@ ul a{
 
 
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 800px){
     .team{
         flex-direction: column;
         height: fit-content;
